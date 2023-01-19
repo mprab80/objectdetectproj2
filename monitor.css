@@ -1,0 +1,21 @@
+body{
+    background-size: cover;
+    text-align: center;
+}
+.heading{
+    width: 100%;
+    font-size: 35px;
+}
+#backmonitor{
+    background-color: red;
+    font-size: 20px;
+    float:left;
+}
+#apple{
+    font-size: 18px;
+}
+canvas{
+    border-width: 10px;
+    border-radius: 10px;
+    border-color: white;
+}
